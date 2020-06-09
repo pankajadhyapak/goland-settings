@@ -1,7 +1,7 @@
 <application>
   <component name="GroupManager">
     <expandedByName>
-      <entry name="Tutorials" expanded="false" />
+      <entry name="Tutorials" expanded="true" />
       <entry name="Projects" expanded="true" />
     </expandedByName>
   </component>
@@ -12,33 +12,9 @@
     <option name="map">
       <map>
         <entry key="Actions" value="NOT_PASSED" />
-        <entry key="Basic Completion" value="NOT_PASSED" />
-        <entry key="Completion with Tab" value="NOT_PASSED" />
-        <entry key="Debug function calls" value="NOT_PASSED" />
         <entry key="Goland2019.2.ExtractMethodRefactoringWithReturns" value="NOT_PASSED" />
-        <entry key="Goland2019.2.FillStructFields" value="NOT_PASSED" />
-        <entry key="Goland2019.2.RedundantTypeConversions" value="NOT_PASSED" />
-        <entry key="Goland2019.3.CreateFunctionFromFunctionType" value="NOT_PASSED" />
-        <entry key="Goland2019.3.DeleteParameterNames" value="NOT_PASSED" />
         <entry key="Goland2019.3.DeleteUnusedParameters" value="NOT_PASSED" />
-        <entry key="Goland2019.3.ExtractVariableWithError" value="NOT_PASSED" />
-        <entry key="Goland2019.3.ForrLiveTemplate" value="NOT_PASSED" />
-        <entry key="Goland2019.3.ReuseSignatureTypes" value="NOT_PASSED" />
-        <entry key="GopherCon.CodeFormatting" value="NOT_PASSED" />
-        <entry key="GopherCon.CommentLine" value="NOT_PASSED" />
-        <entry key="GopherCon.ExtractFunction/Method" value="NOT_PASSED" />
-        <entry key="GopherCon.ExtractVariable" value="NOT_PASSED" />
-        <entry key="GopherCon.FormatStringArgument" value="NOT_PASSED" />
-        <entry key="GopherCon.GoFmt" value="NOT_PASSED" />
-        <entry key="GopherCon.ImplementMissingMethods" value="NOT_PASSED" />
-        <entry key="GopherCon.Inline" value="NOT_PASSED" />
-        <entry key="GopherCon.Rename" value="NOT_PASSED" />
         <entry key="Handling errors with live and postfix templates" value="NOT_PASSED" />
-        <entry key="Method-Like Function Completion" value="NOT_PASSED" />
-        <entry key="Postfix Completion" value="NOT_PASSED" />
-        <entry key="Postfix templates" value="NOT_PASSED" />
-        <entry key="Select" value="NOT_PASSED" />
-        <entry key="Smart Type Completion" value="NOT_PASSED" />
       </map>
     </option>
   </component>
