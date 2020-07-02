@@ -37,6 +37,7 @@
         <entry key="GopherCon.Rename" value="NOT_PASSED" />
         <entry key="Handling errors with live and postfix templates" value="NOT_PASSED" />
         <entry key="Method-Like Function Completion" value="NOT_PASSED" />
+        <entry key="Navigation from comments and struct inspections" value="NOT_PASSED" />
         <entry key="New live and postfix templates" value="NOT_PASSED" />
         <entry key="Postfix Completion" value="NOT_PASSED" />
         <entry key="Postfix templates" value="NOT_PASSED" />
@@ -45,6 +46,7 @@
         <entry key="Smart Type Completion" value="NOT_PASSED" />
         <entry key="Using the Implement Methods action" value="NOT_PASSED" />
         <entry key="Working with types" value="NOT_PASSED" />
+        <entry key="Working with variadic functions" value="NOT_PASSED" />
       </map>
     </option>
   </component>
